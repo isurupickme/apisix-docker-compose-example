@@ -1,0 +1,7 @@
+. {
+    hosts {
+        172.18.0.3 keycloak.local
+        fallthrough
+    }
+    forward . /etc/resolv.conf
+}

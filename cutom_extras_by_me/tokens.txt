@@ -1,0 +1,76 @@
+passenger
+token=
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjZiZjBkNmVlMmIwYjdhZjk3ODJlMWZiNWQ0YWI3YjUxIn0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJpc3MiOiJwYXNzZW5nZXIifQ.FdJHVkswxry1AQm7lPbKEmr0lh6rMOoUNlk7VPtMWpFk_tQE3uWlG2RpG5orLGtkCY_owC_uv6wogj3y840O1It1lOeWF74JVhDso6qz7UdWqIsbkXxcoPu_7YQQT9D_W-jggSVz0VxBmle8jAK8TJHPFDm6jrz14nSKjMmhWoz7NvSr_oTFergCuAmUCE3RYUxZrUH56ad-pFfgfrP1biOHCnpUlKnoQy6qZrPGgHex718GfLa1WnN525QUlSj-6ep_VDX7svEx2qbWC2On5kDBuuFcpH4IyeRlSMRAFE_jW0noIiiJPLSNjd6jUGY_12Z7f4xO0B8otu7G-xJbiw
+
+privatekey=
+{
+  "alg": "RS256",
+  "d": "IznbMp4KAqAY1cxfidko16ETUFCLIghvoRZAESvxaZ4T1pTiuxblh0ZdGif43Gum7nP-GyRIA_xEW0fKVg9CcD5IsacwCuU59sRXN2KheUtoTZzoDWdxe0_8Z7us0ZY3yUOKyxnvGOnnqctRIRqdrr_wZoXu3rjsEzprjIJZ8o2lL9aDsb14FoB1j_b91y2mOJ3LXM3zVAnwf4L_tHpK-wzPNoYP5FYn_n-IOgbOnvvItt6zhyo30GMSf2pY0rZAJGnDG4rtcTmYiBXwsIJg3b0cfF2hIEGdr3B29Pr2jMtWOhwIJrJmtJPRl89wUagdGKkfH4-iy420qGXYXxHs4w",
+  "dp": "vsT6UMlO3JtjMYvbP4Jzj1FPetDGS5vZaRTFgoJ_QuoHVZZaxaf8V4CPbUMmcOQmnHAs3YG9cwp5UymYrbhRJgiGra3sroKHnH2LWIT-9qu3veTJINY9vjj_Op-ZXWWb6PB51OyZPF2pOmpP7Y7rcxhWpu2auYnyH3ARSbtz3p0",
+  "dq": "ed8hjXl-RIct5xEt_7PmkhVcfzVOiGQ1iISQnn60F7D9fiGORgcS89nz_XzloJfVZc98DgSj1Mtq4eGqZ1QkJ0HdgGujcsu-6Luz2a_dOLt26nekESFfZJJIeBrv-Uo7ghfLoCms9RKTPvLRPfh9b3nbc3BuqgS6WCPIhvWcjDM",
+  "e": "AQAB",
+  "key_ops": [
+    "sign"
+  ],
+  "kty": "RSA",
+  "n": "l0ovIgjzzmkg_TXQ6YooOfHFytVFALStMSC1T1xwh2krtI0-_Ji1n-LQuW5hfpQTIHx9kujK3XhvdH1Y2pcUhIMsg-TzhzKJYdHyytdfnbRy74mWGHfmNeTM-EJPSjHD4Z-WN_YsHpVeyko3uLq8IxcHNpZ1KSydEEGb4IaWlW1HzX5ejBdOapM00KDMkjLjIJix3gzRob43KhfV3yQvK30heSHpQqk4lzTCqo2Br_EpjheQzr14Yz0hAGbVxoU73TAixA5BJou9y0dNSyIV5RVMhkp7Nz8SLnGMDKcNKmeoUYJPoRUXuHEFeoFumaRonk6F39k_kpL2MWd1OxB8_Q",
+  "p": "ysjBWb6CjaH6BlLynnSGCl4Vfgl8_cInKt48mkNBpvcqRrGzAGbZn4osL-CXbDm67Sb6XkhPefdubjYtY5lR0QVGuKBI7l3QvmzFPP9O_5qt--qakYHZorP6qsAY95mYcCCymbVE8Fu0Mprrj_O_M2UliosjkHD9BkMnB6bEeWs",
+  "q": "vv37gqwgSRnaryJIDo59DWZZ1QZoYk41l9XK0mVaZn6p3ptbX_byLUsUqDP6uFS1_lpBnuczTUTDHb-QyduMeBgTKZQyjhPuILe5wb3LS-f6AzxR0GUVWIKw0bkZkkcA4Jw1sta9s4nBulxgW-7OjjNtYgZXtpw8-gUcCRK19Tc",
+  "qi": "KCbyQ22qQCF238BIZg7HWpcotJDVgdVeQcvHgAI3USPb0mAmyqHTe3QMmfHf7oZ80cVWMYMqmmT-kubuCeRKLa9Q8JPJ5AetHE-yQ8-NXbJFh8pCkwGSK2uobUIeCMCIvZEgvF6frV8lCzhNMY7vHHHOj2FZaATehbqrWjUwt_Y",
+  "use": "sig",
+  "kid": "6bf0d6ee2b0b7af9782e1fb5d4ab7b51"
+}
+
+publicKey=
+{
+  "alg": "RS256",
+  "e": "AQAB",
+  "key_ops": [
+    "verify"
+  ],
+  "kty": "RSA",
+  "n": "l0ovIgjzzmkg_TXQ6YooOfHFytVFALStMSC1T1xwh2krtI0-_Ji1n-LQuW5hfpQTIHx9kujK3XhvdH1Y2pcUhIMsg-TzhzKJYdHyytdfnbRy74mWGHfmNeTM-EJPSjHD4Z-WN_YsHpVeyko3uLq8IxcHNpZ1KSydEEGb4IaWlW1HzX5ejBdOapM00KDMkjLjIJix3gzRob43KhfV3yQvK30heSHpQqk4lzTCqo2Br_EpjheQzr14Yz0hAGbVxoU73TAixA5BJou9y0dNSyIV5RVMhkp7Nz8SLnGMDKcNKmeoUYJPoRUXuHEFeoFumaRonk6F39k_kpL2MWd1OxB8_Q",
+  "use": "sig",
+  "kid": "6bf0d6ee2b0b7af9782e1fb5d4ab7b51"
+}
+
+
+request = 
+curl "http://127.0.0.1:9180/apisix/admin/routes/passenger-token-exchange-test" -H 'X-API-KEY: edd1c9f034335f136f87ad84b625c8f1' -X PUT -d '
+{
+   "name":"pickme-traffic-passenger",
+   "desc":"Route for pickme passenger traffic",
+   "uri":"/pickme",
+   "plugins":{
+      "token-exchanger":{
+         "custom_issuer_name":"passenger",
+         "token_exchange_service_uri": "http://host.docker.internal:7777/"
+      },
+      "traffic-split": {
+            "rules": [
+                {
+                    "match": [
+                        {
+                            "vars": [
+                                ["http_X-Auth-Proxy","==","passenger"]
+                            ]
+                        }
+                    ],
+                    "weighted_upstreams": [
+                        {
+                            "upstream_id": "536543432068302212"
+                        }
+                    ]
+                }
+            ]
+        }
+   },
+   "upstream_id": "536543364087022980"
+}'
+
+
+
+
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqVp4/VailVQASPDJJHjEp3N/ES9S/+TJlHg3Udy13u/dK6OSJVsjdWUbGgwjdnaCnY97oWAlty3sadITDW2hNIQ+1I41yBW17dEpSPvz+hzU0kGey/FIGAuXGdzw9PeUpDxeX7ZHMZ0A8fSPZ49D24EL3nC3ngT5zUUozWhSzVik82LQo2Xl9v6NukhsO8CmZOGWglPIpIQ7Zl9dWpirRplVeSFiW6ieAa+MzYqNmYXlVNuWkD6yPluBC/TcCWZi+jk3iZOBG3p1O1t0Irhz9vum0vXWKg+cR4XG2A2p5+IHpAsOX1f+iKfGaxR7uw1tADKoUsPP/Z+WlURZqXctVwIDAQAB
+-----END PUBLIC KEY-----
